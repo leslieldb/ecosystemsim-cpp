@@ -1,0 +1,4 @@
+C:\Users\phldb\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/phldb/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "E:\Previous Classes\Year 2\Semester 1\PROG2100 (C++)\Assignment 4" -B "E:\Previous Classes\Year 2\Semester 1\PROG2100 (C++)\Assignment 4\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/Previous Classes/Year 2/Semester 1/PROG2100 (C++)/Assignment 4/cmake-build-debug
